@@ -1,7 +1,7 @@
 # RAG Based Document Q&A System
 
 Upload any PDF or TXT file and ask questions about it. Fully free stack:
-- **LLM**: Groq (free tier, e.g. `llama-3.3-70b-versatile`)
+- **LLM**: Groq (free tier, e.g. `openai/gpt-oss-120b`)
 - **Embeddings**: local `sentence-transformers/all-MiniLM-L6-v2` (no API cost)
 - **Vector store**: FAISS (local, in-memory index saved to disk)
 
