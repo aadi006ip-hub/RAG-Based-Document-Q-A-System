@@ -1,4 +1,4 @@
-# Chat with your Documents — Free RAG Pipeline (LangChain + Groq)
+# RAG Based Document Q&A System
 
 Upload any PDF or TXT file and ask questions about it. Fully free stack:
 - **LLM**: Groq (free tier, e.g. `llama-3.3-70b-versatile`)
