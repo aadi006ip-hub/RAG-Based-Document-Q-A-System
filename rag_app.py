@@ -245,7 +245,7 @@ def run_streamlit_app():
     import streamlit as st
 
     st.set_page_config(page_title="Chat with your Documents (RAG + Groq)", page_icon="📄")
-    st.title("📄 Chat with your PDF / TXT — Free RAG (LangChain + Groq)")
+    st.title("📄 DocuMind AI")
 
     os.makedirs(UPLOAD_DIR, exist_ok=True)
 
