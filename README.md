@@ -5,6 +5,12 @@ Upload any PDF or TXT file and ask questions about it. Fully free stack:
 - **Embeddings**: local `sentence-transformers/all-MiniLM-L6-v2` (no API cost)
 - **Vector store**: FAISS (local, in-memory index saved to disk)
 
+## 🔗 Live Deployments & UI Links
+✨ **Click on the badges below to interact with the project and view the user interface:**
+
+[![Streamlit App](streamlit.jpg)](https://image-captioning-project-9rkwwvmrgxtg3zhqttpu2f.streamlit.app/)
+
+
 ## Pipeline
 
 ```
